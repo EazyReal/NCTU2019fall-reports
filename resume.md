@@ -5,7 +5,7 @@
 * +886-911-102924
 * 0312fs3@gmail.com
 * https://github.com/EazyReal
-* [Online version of this Resume](https://hackmd.io/WwzUYXj1QHyzLI0_PQcWIw?both)
+* [Online version of this Resume](https://hackmd.io/WwzUYXj1QHyzLI0_PQcWIw)
 
 ## Education
 
