@@ -29,7 +29,7 @@
     * [Brief Report Link](https://github.com/EazyReal/NCTU2019fall-reports/blob/master/cgilab/Indivisual%20Study%202019%20spring%20at%20CGI%20lab%20report.pptx)
 * [**Deep Learning Projects**](https://github.com/EazyReal/NCTU2019fall_DeepLearning/blob/master/HW3/HW3%20Report.pdf)
     * Deep learning course project reports and codes, **ANN from scratch/CNN/RNN**
-* [**Treap Tutorial.md**](/9Hw3BAv8RhecludOcMEsvw)
+* [**Treap Tutorial.md**](https://hackmd.io/9Hw3BAv8RhecludOcMEsvw)
     * Treap tutorial for NCTU PCCA winter camp(canceled for COVID-19)
 * Other projects can be found at [github page](https://github.com/EazyReal)
 
