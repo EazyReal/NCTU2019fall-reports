@@ -39,7 +39,7 @@
 * Codeforces #616 division 2 contest Ranked 402
 * **2019 Taiwan Online Programming Contest Ranked 14**
 * CKHS TOI School Team Selection-2 Ranked 2, Feb 2015 
-* General English Proficiency Test(GEPT), High-intermediate Level, Preliminary Test Passed, May 2018 
+* General English Proficiency Test(GEPT), High-intermediate Level, Preliminary Test Passed with score both 100+, May 2018 
 * National Tsing Hua University Chemistry High School Student Program, 2012
 
 ## Programming Languages
