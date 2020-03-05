@@ -1,8 +1,10 @@
 # NCTU2019fall-reports
 
-## resume.md is updated
+## this project folder contains most of my works in 2019 fall semester
 
-## also visit
+## NCTU2019fall-reports/resume.md is updated
+
+## You may also visit
 * [Maxwill's CP site](/okb8VJY1SXqK320--sSOdg) 
 * [NCTU 2020 spring](/xJD55HhBS-CiMdAiSCNYEg)   
 
